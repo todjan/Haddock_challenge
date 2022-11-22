@@ -1,16 +1,16 @@
- * Requirements
+ # Requirements
     node v16.18.0
 
- * Installation
+ # Installation
     npm install typescript chai mocha ts-node @types/chai @types/mocha --save-dev
 
- * Test execution
+ # Test execution
     npm run test
 
- * Script execution
+ # Script execution
     npm run script
 
- * Script usaage
+ # Script usaage
     In order to try the script, you should edit ./src/order2.tsx
 
     new MyOrderHandler() has 3 optional arguments: 
